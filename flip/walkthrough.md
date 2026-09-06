@@ -21,7 +21,7 @@ then again
     -  To Hex   : 
 *  output: b9
 
-replace the 'b9' at the place of 99 
+replace the 'b9' at the place of 99.
 
 https://youtu.be/Sw5v17YaftI
 
